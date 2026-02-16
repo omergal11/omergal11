@@ -14,6 +14,6 @@ I'm a third-year CS student with hands-on experience in backend development, con
 - 🧠 **[BRAINLOOP](https://github.com/omergal11/BrainLoop):** A data-driven adaptive learning platform. Designed a robust SQL database integrating large-scale external datasets to optimize complex queries for real-time analytics.
 
 ### 📫 Let's Connect
-- **LinkedIn:** [omer-gal](https://www.linkedin.com/in/omer-gal-1b677b378/)
+- **LinkedIn:** [Omer-Gal](https://www.linkedin.com/in/omer-gal-1b677b378/)
 - **Portfolio:** [View My Projects](https://private-tank-191.notion.site/305dacd02aae803bbb21c9b94b336fcf?v=305dacd02aae80ae8661000cced38eb8)
 - **Email:** omergal011@gmail.com
